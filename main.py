@@ -48,4 +48,5 @@ def game_menu():
             elif niveau_vie == "0":
                 game = False
                 print(f"La partie est terminée, vous avez vaincu {nombre_victoires} monstre(s).")
+
 game_menu()
